@@ -16,7 +16,10 @@ const Home = () => {
       <HomeText>
         <HomeTitle>WELCOME TO PIXELSHOTS</HomeTitle>
         <HomeDescription>
-          We are PixelShots and here we will be talking a little bit about us
+          We are PixelShots and here we will be talking a little bit about us!
+          ...this is a fiction enterprise, and I made this site to practice my
+          skills with React, Styled Components and Web Design. I hope you enjoy
+          the content and the design of this site
         </HomeDescription>
         <HomeLink href="#history">Our History</HomeLink>
       </HomeText>
